@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning ReactJS, NextJs, SASS, Firebase<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>💬 Ask me about HTML, CSS, JS, ReactJS, UI
+🚀 Passionate Frontend Developer on the Rise!<br><br><br>Hey there! 👋 I'm Ayaan Shaikh, an enthusiastic frontend developer on a mission to master the art of crafting seamless user experiences. Currently, I'm diving deep into the world of React.js and exploring various frontend frameworks to broaden my tech arsenal.<br><br>💡 What I Bring to the Table:<br><br>Tech Explorer: Constantly embracing new frontend technologies and frameworks to stay at the forefront of the ever-evolving tech landscape.<br><br>React Enthusiast: Currently honing my skills in React.js, turning ideas into interactive and dynamic user interfaces.<br><br>UI Maestro: With hands-on experience, I specialize in creating visually stunning and intuitive user interfaces that leave a lasting impression.<br><br><br><br>🌱 I’m currently learning ReactJS, NextJs, SASS, Firebase<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>💬 Ask me about HTML, CSS, JS, ReactJS, UI
 
 
 ## 🌐 Socials:
