@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3d08_ayVtEyrJOsJpwxPi8SrzLe3i06ddzkluMFNX2g&s))
 
 
 
