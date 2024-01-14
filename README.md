@@ -1,9 +1,14 @@
-img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://img.freepik.com/free-vector/new-app-development-desktop_23-2148684987.jpg?w=740&t=st=1705245097~exp=1705245697~hmac=16c29ad17f82255b6e21e4517b50dae809bffd1a33ea9aa5704bfaffeeec5210)"
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+
+
+
 
 
 <h1 align="center">Hi 👋, I'm Ayaan Shaikh</h1>
 <h3 align="center">An enthusiastic frontend developer on a mission to master the art of crafting seamless user experiences. Currently, I'm diving deep into the world of React.js and exploring various frontend frameworks to broaden my tech arsenal.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/new-app-development-desktop_23-2148684987.jpg?w=740&t=st=1705245097~exp=1705245697~hmac=16c29ad17f82255b6e21e4517b50dae809bffd1a33ea9aa5704bfaffeeec5210"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaanshaikh90&label=Profile%20views&color=0e75b6&style=flat" alt="ayaanshaikh90" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaanshaikh90" alt="ayaanshaikh90" /></a> </p>
